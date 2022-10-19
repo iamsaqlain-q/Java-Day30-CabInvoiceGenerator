@@ -44,4 +44,3 @@ class TestInvoiceGenerator {
 			assertEquals(expectedInvoiceSummary, summary);
 		}
 }
-
