@@ -6,9 +6,6 @@ import org.junit.Test;
 
 public class TestApp 
 {
-    /**
-     * Rigorous Test :-)
-     */
     @Test
     public void shouldAnswerWithTrue()
     {
